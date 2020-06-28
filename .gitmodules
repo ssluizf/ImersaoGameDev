@@ -1,3 +1,3 @@
 [submodule "certificado"]
 	path = certificado
-	url = ./certificado
+	url = https://github.com/ssluizf/certificado_ImersaoGameDev
